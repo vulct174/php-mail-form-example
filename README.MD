@@ -67,4 +67,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - [Bootstrap 5](https://getbootstrap.com/) for the responsive UI.
-```
